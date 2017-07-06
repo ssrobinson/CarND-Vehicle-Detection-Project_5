@@ -1,4 +1,4 @@
-## My solution for this project can be viewed by opening [report.pdf](https://github.com/ssrobinson/CarND-Vehicle-Detection-Project_5/blob/master/report.pdf) and by running [vehicle_detection_main.py](https://github.com/ssrobinson/CarND-Vehicle-Detection-Project_5/blob/master/vehicle_detection_main.py) .
+## My solution for this project can be viewed [here](https://github.com/ssrobinson/CarND-Vehicle-Detection-Project_5/blob/master/report.pdf) and by running [vehicle_detection_main.py](https://github.com/ssrobinson/CarND-Vehicle-Detection-Project_5/blob/master/vehicle_detection_main.py) .
 
 ## [Vehicle Detection Video](https://www.youtube.com/watch?v=8H_dbkQYKco) 
 
