@@ -1,6 +1,6 @@
 ## My solution for this project can be viewed [here](https://github.com/ssrobinson/CarND-Vehicle-Detection-Project_5/blob/master/report.pdf) and by running [vehicle_detection_main.py](https://github.com/ssrobinson/CarND-Vehicle-Detection-Project_5/blob/master/vehicle_detection_main.py) .
 
-## [Vehicle Detection Video](https://www.youtube.com/watch?v=8H_dbkQYKco) 
+## Output File: [Vehicle Detection Video](https://www.youtube.com/watch?v=8H_dbkQYKco) 
 
 *The remainder of this document originated from the Udacity repo which can be found [here](https://github.com/udacity/CarND-Vehicle-Detection)*
 
