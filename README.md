@@ -1,3 +1,7 @@
+## My solution for this project can be viewed by opening [report.pdf](https://github.com/ssrobinson/CarND-Vehicle-Detection-Project_5/blob/master/report.html) in a browser.
+*The remainder of this document originated from the Udacity repo which can be found [here](https://github.com/udacity/CarND-Vehicle-Detection)*
+
+
 # Vehicle Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
